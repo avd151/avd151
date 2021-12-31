@@ -22,5 +22,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avd151&show_icons=true&locale=en" alt="avd151" /></p>
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avd151&label=Profile%20views&color=0e75b6&style=flat" alt="avd151" /> </p>
+<br>
