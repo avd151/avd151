@@ -2,7 +2,7 @@
 <h3 align="center">Third Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
 <br>
 
-- 🌱 I’m currently learning **Machine learning & Data Science**
+- 🌱 I’m currently learning about **Operating Systems and Data Science**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
