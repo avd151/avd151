@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
 <br>
 
-- 🌱 I’m currently learning about **Machine Learning & Blockchain**
+- 🌱 I’m currently learning about **Machine Learning & Deep Learning**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
