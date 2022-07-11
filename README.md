@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurva Deshpande</h1>
-<h3 align="center">Third Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
+<h3 align="center">Final Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
 <br>
 
 - 🌱 I’m currently learning about **Machine Learning & Blockchain**
