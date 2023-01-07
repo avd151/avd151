@@ -2,13 +2,13 @@
 <h3 align="center">Final Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
 <br>
 
-- 🌱 I’m currently learning about **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning about **Deep Learning, GIS and Flutter**
 
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on interesting **Web Development projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/avd151)
 
-- 💬 Ask me about **C, C++, Python, Django and Web Development**
+- 💬 Ask me about **C, C++, Python, Full Stack Web Development using React.js and Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
