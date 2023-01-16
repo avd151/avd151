@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
 <br>
 
-- 🌱 I’m currently learning about **Deep Learning, GIS and Flutter**
+- 🌱 I’m currently learning about **Deep Learning, GIS and Java**
 
 - 👯 I’m looking to collaborate on interesting **Web Development projects**
 
