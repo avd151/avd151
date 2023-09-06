@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Apurva Deshpande</h1>
-<h3 align="center">Final Year Computer Engineering Student at College of Engineering, Pune (COEP)</h3>
+<h3 align="center">A Software Engineer interested in Problem solving and Web Development</h3>
 <br>
 
-- 🌱 I’m currently learning about **Deep Learning, GIS and Java**
+- 🌱 I’m currently learning about **Full Stack Development, DevOps and Google Cloud Platform**
 
 - 👯 I’m looking to collaborate on interesting **Web Development projects**
 
